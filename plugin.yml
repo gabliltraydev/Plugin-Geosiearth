@@ -1,0 +1,11 @@
+name: GeosiearthPlugin
+version: 1.0.1
+api: spigot
+main: fr.glt.geosiearth.plugin.PluginGE
+commands: 
+  check: 
+    description: Allows you to check if the plugin works well
+  geperms: 
+    description: commande de groupes
+    permission: geosiearth.geperms
+  

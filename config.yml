@@ -1,0 +1,7 @@
+#%player% se transforme par le nom du joueur et "&" permet de mettre de la couleur (&e = rouge etc...)
+
+messages:
+  join: ""
+  splashtitle: "Geosiearth"
+  splashdesc: "Le serveur qui lie géopolitique et minecraft !"
+  firstjoinmess: "%player% viens de rejoindre pour la première fois !"
